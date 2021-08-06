@@ -1,9 +1,7 @@
-#Docker-compose: Wordpress + Mysql
+## Docker-compose: Wordpress + MySQL
 
-Terminal: 
+### Terminal: 
 docker-compose up -d
 
-Browser:
+### Browser:
 localhost:8080
-
-
